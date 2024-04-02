@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "creation": "2024-03-30 09:47:23.530331",
+ "creation": "2024-03-31 09:54:29.973269",
  "default_view": "List",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -18,10 +18,10 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-03-30 09:47:23.530331",
+ "modified": "2024-03-31 11:44:27.013792",
  "modified_by": "Administrator",
- "module": "Tender",
- "name": "PMS Quotation Approve",
+ "module": "PMS Project",
+ "name": "PMS Project Category",
  "owner": "Administrator",
  "permissions": [
   {
@@ -37,7 +37,9 @@
    "write": 1
   }
  ],
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "title"
 }

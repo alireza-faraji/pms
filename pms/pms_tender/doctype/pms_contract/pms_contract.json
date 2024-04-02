@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "creation": "2024-03-30 09:46:36.995108",
+ "creation": "2024-03-30 09:49:44.055384",
  "default_view": "List",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -18,10 +18,10 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-03-30 09:46:36.995108",
+ "modified": "2024-03-30 09:49:44.055384",
  "modified_by": "Administrator",
- "module": "Tender",
- "name": "PMS Qutation Reveiw",
+ "module": "PMS Tender",
+ "name": "PMS Contract",
  "owner": "Administrator",
  "permissions": [
   {

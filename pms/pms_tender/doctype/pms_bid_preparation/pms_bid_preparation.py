@@ -237,17 +237,17 @@ def make_purchase_order(source_name, target_doc=None, args=None):
 
 
 @frappe.whitelist()
-def make_request_for_quotation(source_name, target_doc=None):
+def make_bid_to_contractor(source_name, target_doc=None):
 	doclist = get_mapped_doc(
-		"Material Request",
+		"PMS Bid Preparation",
 		source_name,
 		{
-			"Material Request": {
-				"doctype": "Request for Quotation",
+			"PMS Bid Preparation": {
+				"doctype": "PMS Send Bid to Contractor",
 				"validation": {"docstatus": ["=", 1]},
 			},
-			"Material Request Item": {
-				"doctype": "Request for Quotation Item",
+			"PMS Bid Preparation Item": {
+				"doctype": "PMS Send Bid to Contractor Item",
 				"field_map": [
 					["name", "material_request_item"],
 					["parent", "material_request"],

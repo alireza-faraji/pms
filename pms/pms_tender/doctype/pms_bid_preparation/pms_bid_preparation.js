@@ -84,7 +84,7 @@ frappe.ui.form.on('PMS Bid Preparation', {
 
 				
 					frm.add_custom_button(__("Send Bid To Contractor"),
-						() => frm.events.make_request_for_quotation(frm), __('Create'));
+						() => frm.events.make_bid_to_contractor(frm), __('Create'));
 				
 
 				
@@ -219,9 +219,9 @@ frappe.ui.form.on('PMS Bid Preparation', {
 		)
 	},
 
-	make_request_for_quotation: function(frm) {
+	make_bid_to_contractor: function(frm) {
 		frappe.model.open_mapped_doc({
-			method: "pms.pms_tender.doctype.pms_bid_preparation.pms_bid_preparation.make_request_for_quotation",
+			method: "pms.pms_tender.doctype.pms_bid_preparation.pms_bid_preparation.make_bid_to_contractor",
 			frm: frm,
 			run_link_triggers: true
 		});

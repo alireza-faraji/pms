@@ -249,9 +249,9 @@ def make_bid_to_contractor(source_name, target_doc=None):
 			"PMS Bid Preparation Item": {
 				"doctype": "PMS Send Bid to Contractor Item",
 				"field_map": [
-					["name", "material_request_item"],
-					["parent", "material_request"],
-					["uom", "uom"],
+					["name", "pms_bid_preparation_item"],
+					["parent", "pms_bid_preparation"],
+					["description", "description"],
 				],
 			},
 		},
@@ -439,3 +439,4 @@ def get_project_tasks(project):
 	,fields={"name","subject"}
 	)
 	return mr
+

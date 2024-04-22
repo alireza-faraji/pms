@@ -33,7 +33,7 @@
 	refresh: function(frm, cdt, cdn) {
 		if (frm.doc.docstatus === 1) {
 
-			frm.add_custom_button(__('Supplier Quotation'),
+			frm.add_custom_button(__('Quotation Reveiw'),
 				function(){ frm.trigger("make_supplier_quotation") }, __("Create"));
 
 
@@ -144,7 +144,7 @@
 	make_supplier_quotation: function(frm) {
 		var doc = frm.doc;
 		var dialog = new frappe.ui.Dialog({
-			title: __("Create Supplier Quotation"),
+			title: __("Create Quotation Reveiw"),
 			fields: [
 				{	"fieldtype": "Link",
 					"label": __("Supplier"),
@@ -167,7 +167,7 @@
 
 				return frappe.call({
 					type: "GET",
-					method: "erpnext.buying.doctype.request_for_quotation.request_for_quotation.make_supplier_quotation_from_rfq",
+					method: "pms.pms_tender.doctype.pms_send_bid_to_contractor.pms_send_bid_to_contractor.make_supplier_quotation_from_pms_rfq",
 					args: {
 						"source_name": doc.name,
 						"for_supplier": args.supplier
@@ -180,6 +180,7 @@
 						}
 					}
 				});
+				 
 			}
 		});
 

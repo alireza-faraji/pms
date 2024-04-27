@@ -1,0 +1,1266 @@
+Service Stop Date cannot be before Service Start Date,لا يمكن أن يكون تاريخ إيقاف الخدمة قبل تاريخ بدء الخدمة
+Service Stop Date cannot be after Service End Date,لا يمكن أن يكون تاريخ إيقاف الخدمة بعد تاريخ انتهاء الخدمة
+Cannot change Service Stop Date for item in row {0},لا يمكن تغيير تاريخ إيقاف الخدمة للعنصر الموجود في الصف {0}
+Error while processing deferred accounting for {0},@@
+Deferred accounting failed for some invoices:,@@
+Offsetting for Accounting Dimension,@@
+Cannot create accounting entries against disabled accounts: {0},@@
+Disabled Account Selected,@@
+Debit and Credit not equal for {0} #{1}. Difference is {2}.,المدين و الدائن غير متساوي ل {0} # {1}. الفرق هو {2}.
+Please mention Round Off Account in Company,يرجى ذكر حساب التقريب في الشركة
+Please mention Round Off Cost Center in Company,يرجى ذكر مركز التكلفة الخاص بالتقريب في الشركة
+You are not authorized to add or update entries before {0},غير مصرح لك باضافه إدخالات أو تحديثها قبل {0}\n<br>\nYou are not authorized to add or update entries before {0}
+Opening Entry can not be created after Period Closing Voucher is created.,@@
+Invalid Opening Entry,إدخال فتح غير صالح
+Books have been closed till the period ending on {0},@@
+You cannot create/amend any accounting entries till this date.,@@
+Period Closed,@@
+{0} is mandatory for account {1},@@
+Invalid value {0} for {1} against account {2},@@
+{0}: {1} does not exists,{0}: {1} غير موجود
+Please select a Company,الرجاء اختيار الشركة
+There can only be 1 Account per Company in {0} {1},يمكن أن يكون هناك سوى 1 في حساب الشركة في {0} {1}
+Due Date cannot be before Posting / Supplier Invoice Date,تاريخ الاستحقاق لا يمكن أن يسبق تاريخ الترحيل/ فاتورة المورد
+Note: Due / Reference Date exceeds allowed customer credit days by {0} day(s),ملاحظة: تاريخ الاستحقاق أو المرجع يتجاوز الأيام المسموح بها بالدين للزبون بقدر{0} يوم
+Due / Reference Date cannot be after {0},تاريخ الاستحقاق أو المرجع لا يمكن أن يكون بعد {0}
+{0} {1} is disabled,{0} {1} معطل
+{0} {1} is frozen,{0} {1} مجمد
+{0} {1} is not active,{0} {1} غير نشطة
+{0} {1} is not in any active Fiscal Year,@@
+{0} for {1},{0} ل {1}
+{0} '{1}' not in Fiscal Year {2},{0} '{1}' ليس في السنة المالية {2}
+Payment Entry has been modified after you pulled it. Please pull it again.,تم تعديل تدوين مدفوعات بعد سحبه. يرجى سحبه مرة أخرى.
+Allocated amount cannot be negative,لا يمكن أن يكون المبلغ المخصص سالبًا
+Allocated amount cannot be greater than unadjusted amount,لا يمكن أن يكون المبلغ المخصص أكبر من المبلغ غير المعدل
+Journal Entries {0} are un-linked,إدخالات قيد اليومية {0} غير مترابطة
+There were issues unlinking payment entry {0}.,@@
+Please cancel payment entry manually first,@@
+Payment Unlink Error,@@
+Payment Entries {0} are un-linked,تدوين مدفوعات {0} غير مترابطة
+Please set default {0} in Company {1},يرجى تعيين {0} الافتراضي للشركة {1}
+"Payment Gateway Account not created, please create one manually.",حساب بوابة الدفع لم يتم انشاءه، يرجى إنشاء واحد يدويا.
+{0} Number {1} is already used in {2} {3},{0} الرقم {1} مستخدم بالفعل في {2} {3}
+All Accounts,جميع الحسابات
+Please set default Exchange Gain/Loss Account in Company {},@@
+Currency for {0} must be {1},العملة ل {0} يجب أن تكون {1} \n<br>\nCurrency for {0} must be {1}
+Company Not Linked,شركة غير مرتبطة
+Company,شركة
+Account,حساب
+Account is not set for the dashboard chart {0},لم يتم تعيين الحساب لمخطط لوحة المعلومات {0}
+Account {0} does not exists in the dashboard chart {1},الحساب {0} غير موجود في مخطط لوحة المعلومات {1}
+Chart of Accounts,الشجرة المحاسبية
+Please set a Company,الرجاء تعيين شركة
+Root Company,شركة الجذر
+New Company,شركة جديدة
+New Account Name,اسم الحساب الجديد
+Account Number,رقم الحساب
+"Number of new Account, it will be included in the account name as a prefix",عدد الحساب الجديد، سيتم تضمينه في اسم الحساب كبادئة
+Is Group,هل مجموعة
+Root Type,نوع الجذر
+Account Type,نوع الحساب
+Optional. This setting will be used to filter in various transactions.,اختياري . سيتم استخدام هذا الإعداد لفلترت المعاملات المختلفة.
+Tax Rate,معدل الضريبة
+Currency,العملة
+"Optional. Sets company's default currency, if not specified.",اختياري. تحديد العملة الافتراضية للشركة، إذا لم يتم تحديدها.
+Chart of Cost Centers,دليل مراكز التكلفة
+View,رأي
+Opening Invoice Creation Tool,أداة إنشاء فاتورة افتتاحية
+Period Closing Voucher,قيد إغلاق الفترة
+Journal Entry,القيود اليومية
+Create,انشاء
+Financial Statements,البيانات المالية
+New,جديد
+Please add the account to root level Company - {0},@@
+Add Child,إضافة الطفل
+View Ledger,عرض القيود
+This is a root account and cannot be edited.,.هذا حساب جذري و لايمكن تعديله
+Merge Account,دمج الحساب
+Actions,الإجراءات
+Update Account Name / Number,تحديث اسم / رقم الحساب
+Convert to Non-Group,تحويل الي تصنيف (غير المجموعه)
+General Ledger,دفتر الأستاذ العام
+Convert to Group,تحويل إلى تصنيف (مجموعة)
+Merge with Existing Account,دمج مع حساب موجود
+Merge,دمج
+Update Account Number / Name,تحديث رقم الحساب / الاسم
+Update,تحديث
+Account {0}: Parent account {1} does not exist,الحساب {0}: الحسابه الأب {1} غير موجود
+Account {0}: You can not assign itself as parent account,الحساب {0}: لا يمكنك جعله حساب رئيسي
+Account {0}: Parent account {1} can not be a ledger,الحساب {0}: الحساب الرئيسي {1} لا يمكن أن يكون حساب دفتر أستاذ
+Account {0}: Parent account {1} does not belong to company: {2},الحساب {0}: الحساب الرئيسي {1} لا ينتمي إلى الشركة: {2}
+Root cannot be edited.,الجذرلا يمكن تعديل.
+The root account {0} must be a group,يجب أن يكون حساب الجذر {0} مجموعة
+Please add the account to root level Company - {},الرجاء إضافة الحساب إلى شركة على مستوى الجذر - {}
+Account with existing transaction cannot be converted to ledger,لا يمكن تحويل الحساب مع الحركة الموجودة إلى دفتر الأستاذ\n<br>\nAccount with existing transaction cannot be converted to ledger
+Cannot covert to Group because Account Type is selected.,لا يمكن تحويل الحساب إلى تصنيف مجموعة لأن نوع الحساب تم اختياره.
+Account with child nodes cannot be set as ledger,الحساب لديه حسابات فرعية لا يمكن إضافته لدفتر الأستاذ.\n<br>\nAccount with child nodes cannot be set as ledger
+You are not authorized to set Frozen value,.أنت غير مخول لتغيير القيم المجمدة
+Currency can not be changed after making entries using some other currency,لا يمكن تغيير العملة بعد إجراء إدخالات باستخدام بعض العملات الأخرى
+Account Not Found,الحساب غير موجود
+Invalid Parent Account,حساب الوالد غير صالح
+Account {0} is added in the child company {1},تتم إضافة الحساب {0} في الشركة التابعة {1}
+Account with child nodes cannot be converted to ledger,لا يمكن تحويل الحساب إلى دفتر الأستاذ لأن لديه حسابات فرعية\n<br>\nAccount with child nodes cannot be converted to ledger
+Account with existing transaction can not be converted to group.,لا يمكن تحويل حساب جرت عليه أي عملية إلى تصنيف مجموعة
+Cannot convert to Group because Account Type is selected.,@@
+Root Type is mandatory,نوع الجذر إلزامي\n<br>\nRoot Type is mandatory
+Report Type is mandatory,نوع التقرير إلزامي\n<br>\nReport Type is mandatory
+Account with existing transaction can not be deleted,الحساب لديه معاملات موجودة لا يمكن حذفه\n<br>\nAccount with existing transaction can not be deleted
+Company {0} does not exist,الشركة {0} غير موجودة
+Account Number {0} already used in account {1},رقم الحساب {0} بالفعل مستخدم في الحساب {1}
+Allow Account Creation Against Child Company,السماح بإنشاء حساب ضد شركة تابعة
+Account {0} exists in parent company {1}.,الحساب {0} موجود في الشركة الأم {1}.
+"Renaming it is only allowed via parent company {0}, to avoid mismatch.",يُسمح بإعادة تسميته فقط عبر الشركة الأم {0} ، لتجنب عدم التطابق.
+"To overrule this, enable '{0}' in company {1}",لإلغاء هذا ، قم بتمكين &quot;{0}&quot; في الشركة {1}
+Rename Not Allowed,إعادة تسمية غير مسموح به
+Account {0} does not exist,حساب {0} غير موجود
+Application of Funds (Assets),استخدام الاموال (الأصول)
+Current Assets,أصول متداولة
+Accounts Receivable,الحسابات المدينة
+Debtors,مدينون
+Bank Accounts,حسابات مصرفية
+Cash In Hand,النقدية الحاضرة
+Cash,نقد
+Loans and Advances (Assets),القروض والسلفيات (الأصول)
+Employee Advances,سلف الموظفين
+Securities and Deposits,الأوراق المالية و الودائع
+Earnest Money,العربون
+Stock Assets,اصول المخزون
+Stock In Hand,الأسهم، إلى داخل، أعطى
+Tax Assets,ضريبية الأصول
+Fixed Assets,الاصول الثابتة
+Capital Equipments,المعدات الكبيرة
+Electronic Equipments,المعدات الإلكترونية
+Furnitures and Fixtures,أثاث وتركيبات
+Office Equipments,أدوات مكتبية
+Plants and Machineries,وحدات التصنيع  والآلات
+Buildings,المباني
+Softwares,البرامج الالكترونية
+Accumulated Depreciation,إستهلاك متراكم
+CWIP Account,حساب CWIP
+Investments,الاستثمارات
+Temporary Accounts,حسابات مؤقتة
+Temporary Opening,افتتاحي مؤقت
+Expenses,النفقات
+Direct Expenses,النفقات المباشرة
+Stock Expenses,مصاريف المخزون
+Cost of Goods Sold,تكلفة البضاعة المباعة
+Expenses Included In Asset Valuation,النفقات المدرجة في تقييم الأصول
+Expenses Included In Valuation,المصروفات متضمنة في تقييم السعر
+Stock Adjustment,تسوية المخزون
+Indirect Expenses,نفقات غير مباشرة
+Administrative Expenses,نفقات إدارية
+Commission on Sales,عمولة على المبيعات
+Depreciation,إهلاك
+Entertainment Expenses,نفقات الترفيه
+Freight and Forwarding Charges,رسوم الشحن
+Legal Expenses,نفقات قانونية
+Marketing Expenses,نفقات تسويقية
+Office Maintenance Expenses,نفقات صيانة المكاتب
+Office Rent,ايجار مكتب
+Postal Expenses,نفقات بريدية
+Print and Stationery,طباعة وقرطاسية
+Round Off,تقريب
+Salary,الراتب
+Sales Expenses,نفقات المبيعات
+Telephone Expenses,نفقات الهاتف
+Travel Expenses,نفقات السفر
+Utility Expenses,نفقات المرافق
+Write Off,لا تصلح
+Exchange Gain/Loss,أرباح / خسائر الناتجة عن صرف العملة
+Gain/Loss on Asset Disposal,الربح / الخسارة عند التخلص من الأصول
+Miscellaneous Expenses,نفقات متنوعة
+Income,الإيرادات
+Direct Income,إيراد مباشر
+Sales,مبيعات
+Service,خدمة
+Indirect Income,دخل غير مباشرة
+Source of Funds (Liabilities),(مصدر الأموال  (الخصوم
+Current Liabilities,الخصوم المتداولة
+Accounts Payable,الحسابات الدائنة
+Creditors,الدائنين
+Payroll Payable,رواتب واجبة الدفع
+Stock Liabilities,خصوم المخزون
+Stock Received But Not Billed,المخزون المتلقي ولكن غير مفوتر
+Asset Received But Not Billed,أصل مستلم ولكن غير فاتورة
+Duties and Taxes,الرسوم والضرائب
+TDS Payable,@@
+Loans (Liabilities),القروض (الخصوم)
+Secured Loans,القروض المضمونة
+Unsecured Loans,القروض غير المضمونة
+Bank Overdraft Account,حساب السحب من البنك بدون رصيد
+Equity,حقوق الملكية
+Capital Stock,رأس المال
+Dividends Paid,توزيع الأرباح
+Opening Balance Equity,الرصيد الافتتاحي لحقوق الملكية
+Retained Earnings,أرباح محتجزة
+Not allowed to create accounting dimension for {0},غير مسموح بإنشاء بعد محاسبي لـ {0}
+Document Type already used as a dimension,@@
+Cannot change Reference Document Type.,@@
+Please create a new Accounting Dimension if required.,@@
+Company {0} is added more than once,@@
+Creating Dimensions...,إنشاء الأبعاد ...
+Row {0}: {1} account already applied for Accounting Dimension {2},@@
+Accounting Period overlaps with {0},فترة المحاسبة تتداخل مع {0}
+You cannot create a {0} within the closed Accounting Period {1},@@
+Stale Days should start from 1.,@@
+Bank Details,تفاصيل البنك
+Refresh Plaid Link,@@
+Cannot retrieve link token for update. Check Error Log for more information,@@
+Plaid Link Updated,@@
+Payments,المدفوعات
+Party,الطرف المعني
+Unlink external integrations,إلغاء ربط التكامل الخارجي
+'{0}' account is already used by {1}. Use another account.,@@
+Company is manadatory for company account,الشركة هي manadatory لحساب الشركة
+IBAN is not valid,رقم الحساب المصرفي الدولي غير صالح
+Get Payment Entries,الحصول على مدخلات الدفع
+Update Clearance Date,تحديث تاريخ التخليص
+From Date and To Date are Mandatory,من تاريخ وتاريخ إلزامي
+Account is mandatory to get payment entries,الحساب إلزامي للحصول على إدخالات الدفع
+Dr,Dr
+Cr,Cr
+Row #{0}: Payment document is required to complete the transaction,الصف # {0}: مطلوب مستند الدفع لإكمال الاجراء النهائي\n<br>\nRow #{0}: Payment document is required to complete the transaction
+Row #{0}: Clearance date {1} cannot be before Cheque Date {2},الصف # {0}: لا يمكن ان يكون تاريخ التخليص {1} قبل تاريخ الشيك\n<br>\nRow #{0}: Clearance date {1} cannot be before Cheque Date {2}
+Clearance Date updated,تم تحديث تاريخ التخليص\n<br>\nClearance Date updated
+Clearance Date not mentioned,لم يتم ذكر تاريخ الاستحقاق
+Select the customer or supplier.,حدد العميل أو المورد.
+Enter the Bank Guarantee Number before submittting.,أدخل رقم الضمان البنكي قبل التقديم.
+Enter the name of the Beneficiary before submittting.,أدخل اسم المستفيد قبل التقديم.
+Enter the name of the bank or lending institution before submittting.,أدخل اسم البنك أو مؤسسة الإقراض قبل التقديم.
+Upload Bank Statement,@@
+Auto Reconcile,@@
+Get Unreconciled Entries,الحصول على مدخلات لم تتم تسويتها
+Party Type and Party is required for Receivable / Payable account {0},@@
+No matching references found for auto reconciliation,@@
+{0} transaction is reconcilied,@@
+{0} transactions are reconcilied,@@
+Import Progress,@@
+In Progress,في تَقَدم
+Export Errored Rows,@@
+Start Import,@@
+Retry,@@
+Save,حفظ
+Report Error,@@
+Loading import file...,@@
+Show Traceback,إظهار التتبع
+Success,نجاح
+Failure,@@
+No failed logs,@@
+Row Number,@@
+Status,الحالة
+Message,رسالة
+Please add the Bank Account column,@@
+Scheduler is inactive. Cannot import data.,المجدول غير نشط. لا يمكن استيراد البيانات.
+Scheduler Inactive,المجدول غير نشط
+Cancelled,ألغيت
+Reconciled,فرضت عليه
+Unreconciled,لم تتم تسويتها
+Unreconcile Transaction,@@
+Bank Transaction {0} is already fully reconciled,@@
+Voucher {0} is over-allocated by {1},@@
+Voucher {0} value is broken: {1},@@
+Bisect Left,@@
+Bisect Right,@@
+Up,@@
+Build Tree,@@
+Bisecting Left ...,@@
+Bisecting Right ...,@@
+Moving up in tree ...,@@
+Rebuilding BTree for period ...,@@
+From Date: {0} cannot be greater than To date: {1},@@
+No more children on Left,@@
+No more children on Right,@@
+Reached Root,@@
+{0} is mandatory,{0} إلزامي
+Budget cannot be assigned against Group Account {0},لايمكن أسناد الميزانية للمجموعة Account {0}
+Account {0} does not belongs to company {1},الحساب {0} لا ينتمي للشركة {1}\n<br>\nAccount {0} does not belongs to company {1}
+Account {0} has been entered multiple times,الحساب {0} تم إدخاله عدة مرات\n<br>\nAccount {0} has been entered multiple times
+Please enable Applicable on Purchase Order and Applicable on Booking Actual Expenses,يرجى تمكين Applicable على أمر الشراء والتطبيق على المصروفات الفعلية للحجز
+Please enable Applicable on Booking Actual Expenses,يرجى تمكين Applicable على Booking Actual Expenses
+Annual,سنوي
+Accumulated Monthly,متراكمة شهريا
+is already,@@
+will be,@@
+{0} Budget for Account {1} against {2} {3} is {4}. It {5} exceed by {6},@@
+Budget Exceeded,@@
+You can only select a maximum of one option from the list of check boxes.,يمكنك فقط تحديد خيار واحد كحد أقصى من قائمة مربعات الاختيار.
+Error,خطأ
+From Time Should Be Less Than To Time,من وقت يجب أن يكون أقل من الوقت
+Download Template,تحميل الوثيقة
+Please select <b>Template Type</b> to download template,يرجى تحديد <b>نوع</b> القالب لتنزيل القالب
+Download,تحميل
+Import,استيراد
+Creating Accounts...,إنشاء حسابات ...
+Import Successful,استيراد ناجح
+Reset,إعادة تعيين
+No data found. Seems like you uploaded a blank file,@@
+More columns found than expected. Please compare the uploaded file with standard template,@@
+Wrong Template,@@
+{} is a child company.,@@
+Please import accounts against parent company or enable {} in company master.,@@
+Wrong Company,@@
+The parent account {0} does not exists in the uploaded template,الحساب الأصل {0} غير موجود في القالب الذي تم تحميله
+"Alternatively, you can download the template and fill your data in.",@@
+Parent Account Missing,@@
+Please enter Root Type for account- {0},@@
+"Root Type for {0} must be one of the Asset, Liability, Income, Expense and Equity",@@
+Please add Root Account for - {0},@@
+Update Print Format,تحديث تنسيق الطباعة
+Create Print Format,إنشاء تنسيق طباعة
+Account Pay Only,حساب الدفع فقط
+Print settings updated in respective print format,تم تحديث إعدادات الطباعة في تنسيق الطباعة الخاصة\n<br>\nPrint settings updated in respective print format
+Reports,تقارير
+New Cost Center Name,اسم مركز تكلفة جديد
+Cost Center Number,رقم مركز التكلفة
+Budget List,قائمة الميزانية
+Budget,ميزانية
+Monthly Distribution,التوزيع الشهري
+Budget Variance Report,تقرير إنحرافات الموازنة
+Update Cost Center Name / Number,تحديث اسم / رقم مركز التكلفة
+Merge with existing,دمج مع الحالي
+Please enter company name first,الرجاء إدخال اسم الشركة اولاً
+Please enter parent cost center,الرجاء إدخال مركز تكلفة الأب
+Root cannot have a parent cost center,الجذر لا يمكن أن يكون له مركز تكلفة أب\n<br>\nRoot cannot have a parent cost center
+{0} is not a group node. Please select a group node as parent cost center,{0} ليست عقدة مجموعة. يرجى تحديد عقدة المجموعة كمركز تكلفة الأصل
+Cannot convert Cost Center to ledger as it has child nodes,لا يمكن تحويل مركز التكلفة إلى حساب دفتر الأستاذ لانه مرتبط بعقدة فرعية
+Cost Center with existing transactions can not be converted to ledger,مركز التكلفة مع المعاملات الحالية لا يمكن تحويلها إلى حساب استاد
+Cost Center with Allocation records can not be converted to a group,@@
+"Cost Center is a part of Cost Center Allocation, hence cannot be converted to a group",@@
+Cost Center with existing transactions can not be converted to group,"مركز التكلفة لديه حركات مالية, لا يمكن تحويه لمجموعة\n<br>\nCost Center with existing transactions can not be converted to group"
+Total percentage against cost centers should be 100,@@
+Warning!,@@
+Main Cost Center {0} cannot be entered in the child table,@@
+Add/Edit Coupon Conditions,إضافة / تحرير شروط القسيمة
+Please select the customer.,يرجى اختيار العميل.
+Access Key is required for Service Provider: {0},@@
+Invalid result key. Response:,@@
+Returned exchange rate is neither integer not float.,@@
+Payment,دفع
+Resolved,تم الحل
+Unresolved,لم تحل
+Resolve,حل
+Ledger,حساب الاستاد
+Journal Entries,@@
+Rounding Loss Allowance should be between 0 and 1,@@
+Journals have been created,@@
+Please select Company and Posting Date to getting entries,يرجى تحديد الشركة وتاريخ النشر للحصول على إدخالات
+No outstanding invoices require exchange rate revaluation,لا تتطلب الفواتير المستحقة إعادة تقييم سعر الصرف
+No outstanding invoices found,لم يتم العثور على فواتير معلقة
+Please set Unrealized Exchange Gain/Loss Account in Company {0},يرجى تعيين حساب أرباح / خسائر غير محققة في الشركة {0}
+Company and Posting Date is mandatory,@@
+Party Type and Party is mandatory for {0} account,نوع الطرف والحزب إلزامي لحساب {0}
+Assets,الأصول
+Budgets,الميزانيات
+References,المراجع
+Target Details,تفاصيل الهدف
+Fiscal Year Start Date should be one year earlier than Fiscal Year End Date,يجب أن يكون تاريخ بدء السنة المالية قبل سنة واحدة من تاريخ نهاية السنة المالية
+Fiscal Year End Date should be one year after Fiscal Year Start Date,يجب أن يكون تاريخ انتهاء السنة المالية بعد سنة واحدة من تاريخ بدء السنة المالية
+{0} is required,{0} مطلوب
+{0} {1}: Customer is required against Receivable account {2},{0} {1}: الزبون مطلوب بالمقابلة بالحساب المدين {2}
+{0} {1}: Supplier is required against Payable account {2},{0} {1}: المورد مطلوب لحساب الدفع {2}\n<br> \n{0} {1}: Supplier is required against Payable account {2}
+{0} {1}: Either debit or credit amount is required for {2},{0} {1}: إما مبلغ دائن أو مدين مطلوب ل{2}
+{0} {1}: Cost Center is required for 'Profit and Loss' account {2}.,@@
+Missing Cost Center,@@
+{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,"{0} {1}: نوع حساب ""الربح والخسارة"" {2} غير مسموح به في قيد افتتاحي"
+{0} {1}: Account {2} is inactive,{0} {1}: الحساب {2} غير فعال \n<br>\n{0} {1}: Account {2} is inactive
+{0} {1}: Account {2} does not belong to Company {3},{0} {1}: الحساب {2} لا ينتمي إلى الشركة {3}
+{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1}: مركز التكلفة {2} لا ينتمي إلى الشركة {3}
+{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}: قيد محاسبي ل {2} يمكن ان يتم فقط بالعملة : {3}
+Individual GL Entry cannot be cancelled.,@@
+Please cancel related transaction.,@@
+Balance for Account {0} must always be {1},رصيد الحساب لـ {0} يجب ان يكون دائما {1}
+Against Journal Entry {0} is already adjusted against some other voucher,مدخل قيد اليومية {0} تم تعديله بالفعل لقسيمة أخرى\n<br>\nAgainst Journal Entry {0} is already adjusted \nagainst some other voucher
+Outstanding for {0} cannot be less than zero ({1}),غير المسددة ل {0} لا يمكن أن يكون أقل من الصفر ( {1} )
+Account {0} is frozen,الحساب {0} مجمد\n<br>\nAccount {0} is frozen
+Not authorized to edit frozen Account {0},غير مصرح له بتحرير الحساب المجمد {0}\n<br>\nNot authorized to edit frozen Account {0}
+Reference,مرجع
+Draft,مشروع
+Sanctioned,مقرر
+Disbursed,مصروف
+Settled,تسوية
+Canceled,ألغيت
+Get Invoices,الحصول على الفواتير
+Disburse Loan,صرف القرض
+Close Loan,إغلاق القرض
+Get Invoices based on Filters,الحصول على الفواتير على أساس المرشحات
+Get Invocies,الحصول على الدعوات
+Accounting Ledger,موازنة دفتر الأستاذ
+Loan Start Date and Loan Period are mandatory to save the Invoice Discounting,تاريخ بدء القرض وفترة القرض إلزامية لحفظ خصم الفاتورة
+Row({0}): {1} is already discounted in {2},الصف ({0}): {1} مخصوم بالفعل في {2}
+Pre Sales,قبل البيع
+Purchase,الشراء
+Stock,المخازن
+{0} entered twice in Item Tax,{0} ادخل مرتين في ضريبة البند
+"Draft, red, docstatus,=,0",@@
+"Cancelled, grey, docstatus,=,2",@@
+Reverse Journal Entry,عكس دخول المجلة
+Quick Entry,إدخال سريع
+Create Inter Company Journal Entry,إنشاء Inter Journal Journal Entry
+Make,سنة الصنع
+Select Company,حدد الشركة
+Please select Company,الرجاء اختيار شركة \n<br>\nPlease select Company
+Quick Journal Entry,قيد دفتر يومية سريع
+Amount,كمية
+Debit Account,حساب مدين
+Credit Account,حساب دائن
+Date,تاريخ
+User Remark,ملاحظة المستخدم
+Series,سلسلة التسمية
+Please select Company first,الرجاء تحديد الشركة أولا\n<br>\nPlease select Company first
+Please select Posting Date first,الرجاء تحديد تاريخ النشر أولا\n<br>\nPlease select Posting Date first
+The task has been enqueued as a background job.,@@
+Total Credit/ Debit Amount should be same as linked Journal Entry,يجب أن يكون إجمالي مبلغ الائتمان / المدين هو نفسه المرتبطة بإدخال المجلة
+Journal Entry type should be set as Depreciation Entry for asset depreciation,@@
+Account: {0} can only be updated via Stock Transactions,الحساب: {0} لا يمكن تحديثه إلا من خلال معاملات المخزون
+Cannot apply TDS against multiple parties in one entry,@@
+Row #{0}: Status must be {1} for Invoice Discounting {2},الصف # {0}: يجب أن تكون الحالة {1} بالنسبة لخصم الفاتورة {2}
+Journal Entry for Asset scrapping cannot be cancelled. Please restore the Asset.,@@
+Row {0}: Account {1} and Party Type {2} have different account types,@@
+Reference No & Reference Date is required for {0},رقم المرجع وتاريخه مطلوبان ل {0}\n<br>\nReference No &amp; Reference Date is required for {0}
+Reference No is mandatory if you entered Reference Date,رقم المرجع إلزامي اذا أدخلت تاريخ المرجع\n<br>\nReference No is mandatory if you entered Reference Date
+Row {0}: Advance against Customer must be credit,الصف {0}:  الدفعة المقدمة مقابل الزبائن يجب أن تكون دائن
+Row {0}: Advance against Supplier must be debit,الصف {0}:المورد المقابل المتقدم يجب أن يكون مدين\n<br>\nRow {0}: Advance against Supplier must be debit
+You can not enter current voucher in 'Against Journal Entry' column,لا يمكنك إدخال القسيمة الحالية في عمود 'قيد اليومية المقابل'.\n<br>\nYou can not enter current voucher in 'Against Journal Entry' column
+Against Journal Entry {0} does not have any unmatched {1} entry,قيد اليومية المقابل {0} لا يحتوى مدخل {1} غير مطابق\n<br>\nAgainst Journal Entry {0} does not have any unmatched {1} entry
+Row {0}: Debit entry can not be linked with a {1},الصف {0}: لا يمكن ربط قيد مدين مع {1}
+Row {0}: Credit entry can not be linked with a {1},صف {0}: لا يمكن ربط قيد دائن مع {1}
+Row {0}: Invalid reference {1},الصف {0}: مرجع غير صالحة {1}
+Row {0}: Party / Account does not match with {1} / {2} in {3} {4},الصف {0}: حزب / حساب لا يتطابق مع {1} / {2} في {3} {4}
+Row {0}: {1} {2} does not match with {3},الصف {0}: {1} {2} لا يتطابق مع {3}
+{0} {1} is not submitted,{0} {1} لم يتم تقديمه
+{0} {1} is fully billed,{0} {1} قدمت الفواتير بشكل كامل
+{0} {1} is closed,{0} {1} مغلقة
+Advance paid against {0} {1} cannot be greater than Grand Total {2},@@
+Payment against {0} {1} cannot be greater than Outstanding Amount {2},الدفعة مقابل {0} {1} لا يمكن أن تكون أكبر من المبلغ القائم {2}
+Row {0}: Both Debit and Credit values cannot be zero,@@
+Total Debit must be equal to Total Credit. The difference is {0},يجب أن يكون إجمالي الخصم يساوي إجمالي الائتمان .
+You cannot credit and debit same account at the same time,لا يمكن إعطاء الحساب قيمة مدين وقيمة دائن في نفس الوقت
+Please check Multi Currency option to allow accounts with other currency,يرجى اختيار الخيار عملات متعددة للسماح بحسابات مع عملة أخرى
+Row {0}: Exchange Rate is mandatory,الصف {0}: سعر صرف إلزامي
+Note: {0},ملاحظة : {0}
+Reference #{0} dated {1},المرجع # {0} بتاريخ {1}
+Please enter Reference date,الرجاء إدخال تاريخ المرجع\n<br>\nPlease enter Reference date
+{0} against Sales Invoice {1},{0} مقابل فاتورة المبيعات {1}
+{0} against Sales Order {1},{0} مقابل طلب مبيعات {1}
+{0} against Bill {1} dated {2},{0} مقابل الفاتورة {1} بتاريخ {2}
+{0} against Purchase Order {1},{0} مقابل أمر الشراء {1}
+'Entries' cannot be empty,المدخلات لا يمكن أن تكون فارغة
+Stock Entry {0} is not submitted,الحركة المخزنية {0} غير مسجلة
+Warning: Another {0} # {1} exists against stock entry {2},تحذير: {0} أخر # {1} موجود في مدخل المخزن {2}\n<br>\nWarning: Another {0} # {1} exists against stock entry {2}
+Accounts table cannot be blank.,جدول الحسابات لا يمكن أن يكون فارغا.
+Can only make payment against unbilled {0},يمكن إجراء دفعة فقط مقابل فاتورة غير مدفوعة {0}
+No Permission,لا يوجد تصريح
+Please select correct account,يرجى اختيارالحساب الصحيح
+Merge Progress,@@
+Please set Company,يرجى تعيين الشركة
+Please set Root Type,@@
+Please set Account,@@
+Start Merge,@@
+Scheduler is inactive. Cannot merge accounts.,@@
+Notes,ملاحظات
+"If unlimited expiry for the Loyalty Points, keep the Expiry Duration empty or 0.",إذا كان انتهاء الصلاحية غير محدود لنقاط الولاء ، فاحتفظ مدة الصلاحية فارغة أو 0.
+One customer can be part of only single Loyalty Program.,يمكن أن يكون أحد العملاء جزءًا من برنامج الولاء الوحيد.
+Please select the Multiple Tier Program type for more than one collection rules.,يرجى تحديد نوع البرنامج متعدد الطبقات لأكثر من قواعد مجموعة واحدة.
+Customer isn't enrolled in any Loyalty Program,العميل غير مسجل في أي برنامج ولاء
+The Loyalty Program isn't valid for the selected company,برنامج الولاء غير صالح للشركة المختارة
+You don't have enough Loyalty Points to redeem,ليس لديك ما يكفي من نقاط الولاء لاستردادها
+You can't redeem Loyalty Points having more value than the Grand Total.,لا يمكنك استرداد نقاط الولاء التي لها قيمة أكبر من المجموع الكلي.
+Same Company is entered more than once,تم إدخال نفس الشركة أكثر من مره\n<br>\nSame Company is entered more than once
+Account {0} does not match with Company {1} in Mode of Account: {2},الحساب {0} لا يتطابق مع الشركة {1} في طريقة الحساب: {2}
+Not Allowed,غير مسموح
+Percentage Allocation should be equal to 100%,مجموع النسب المخصصة يجب ان تساوي 100 %
+Invoice Type,نوع الفاتورة
+Opening Invoices,فتح الفواتير
+Total Outstanding,إجمالي المعلقة
+Create Invoices,إنشاء الفواتير
+Opening Invoices Summary,ملخص الفواتير الافتتاحية
+Please select the Company,يرجى تحديد الشركة
+Opening Invoice Item,فتح الفاتورة البند
+Row #{}: {} {} does not exist.,الصف رقم {}: {} {} غير موجود.
+Row #{0}: {1} is required to create the Opening {2} Invoices,الصف رقم {0}: {1} مطلوب لإنشاء فواتير الافتتاح {2}
+Please Set Supplier Group in Buying Settings.,يرجى تعيين مجموعة الموردين في إعدادات الشراء.
+Please set the Default Cost Center in {0} company.,يرجى تعيين مركز التكلفة الافتراضي في الشركة {0}.
+Nos,Nos
+You had {} errors while creating opening invoices. Check {} for more details,كان لديك {} من الأخطاء أثناء إنشاء الفواتير الافتتاحية. تحقق من {} لمزيد من التفاصيل
+Error Occured,حدث خطأ
+Opening Invoice Creation In Progress,جاري إنشاء الفاتورة الافتتاحية
+Creating {} out of {} {},إنشاء {} من {} {}
+Please add a Temporary Opening account in Chart of Accounts,الرجاء إضافة حساب فتح مؤقت في مخطط الحسابات
+Invalid Primary Role,@@
+{} {} is already linked with {} {},@@
+{} {} is already linked with another {},@@
+View Exchange Gain/Loss Journals,@@
+Please select a Company first.,الرجاء تحديد شركة أولاً.
+Mandatory,إلزامي
+"Party can only be one of {0}, [party_types.join(,",@@
+Please select Posting Date before selecting Party,الرجاء تجديد تاريخ النشر قبل تحديد المستفيد\n<br>\nPlease select Posting Date before selecting Party
+Posting Date,تاريخ الترحيل
+From Date,من تاريخ
+To Date,إلى تاريخ
+Due Date,بسبب تاريخ
+Outstanding Amount,المبلغ المستحق
+Greater Than Amount,أكبر من المبلغ
+Less Than Amount,أقل من المبلغ
+Allocate Payment Amount,تخصيص مبلغ الدفع
+Filters,فلاتر
+"Error: {0} is mandatory field, [to_field.replace(/_/g,",@@
+"{0}: {1} must be less than {2}, [key, from_field.replace(/_/g,",@@
+No gain or loss in the exchange rate,لا مكسب أو خسارة في سعر الصرف
+Please Specify Account,@@
+Please select Charge Type first,يرجى تحديد نوع الرسوم أولا
+Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total'
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,"لا يمكن تحديد نوع التهمة باسم ' في الصف السابق المبلغ ' أو ' في السابق صف إجمالي "" ل لصف الأول"
+Cannot refer row number greater than or equal to current row number for this Charge type,لا يمكن أن يشير رقم الصف أكبر من أو يساوي رقم الصف الحالي لهذا النوع المسؤول
+Difference Amount must be zero,مبلغ الفرق يجب أن يكون صفر\n<br>\nDifference Amount must be zero
+Row #{0}: Duplicate entry in References {1} {2},الصف # {0}: إدخال مكرر في المراجع {1} {2}
+Cannot receive from customer against negative outstanding,@@
+Incorrect Payment Type,@@
+Row #{0}: Allocated Amount cannot be greater than outstanding amount.,الصف # {0}: المبلغ المخصص لا يمكن أن يكون أكبر من المبلغ المستحق.
+{0} {1} has already been fully paid.,@@
+Party Type is mandatory,حقل نوع المستفيد إلزامي\n<br>\nParty Type is mandatory
+Party is mandatory,حقل المستفيد إلزامي\n<br>\nParty is mandatory
+"Payment Type must be one of Receive, Pay and Internal Transfer","نوع الدفع يجب أن يكون إما استلام , دفع أو مناقلة داخلية\n<br>\nPayment Type must be one of Receive, Pay and Internal Transfer"
+{0} {1} does not exist,{0} {1} غير موجود\n<br>\n{0} {1} does not exist
+Reference Doctype must be one of {0},المستند المرجع يجب أن يكون واحد من {0}\n<br>\nReference Doctype must be one of {0}
+{0} {1} is not associated with {2} {3},{0} {1} غير مرتبط {2} {3}
+"{0} {1} is associated with {2}, but Party Account is {3}",{0} {1} مرتبط ب {2}، ولكن حساب الطرف هو {3}
+{0} {1} is on hold,@@
+Invalid Purchase Invoice,@@
+{0} {1} must be submitted,{0} {1} يجب أن يتم اعتماده\n<br>\n{0} {1} must be submitted
+If this is undesirable please cancel the corresponding Payment Entry.,@@
+Warning,تحذير
+Payment term {0} not used in {1},@@
+Row #{0}: Cannot allocate more than {1} against payment term {2},@@
+Received Amount cannot be greater than Paid Amount,@@
+Cannot pay to Customer without any negative outstanding invoice,@@
+Cannot receive from Supplier without any negative outstanding invoice,@@
+Paid Amount cannot be greater than total negative outstanding amount {0},المبلغ المدفوع لا يمكن أن يكون أكبر من إجمالي المبلغ القائم السالب {0}
+Reference No and Reference Date is mandatory for Bank transaction,رقم المرجع و تاريخ المرجع إلزامي للمعاملة المصرفية
+Amount {0} {1} transferred from {2} to {3},القيمة {0} {1} نقلت من {2} إلى {3}
+Amount {0} {1} {2} {3},القيمة {0} {1} {2} {3}
+received from,مستلم من
+to,إلى
+Transaction reference no {0} dated {1},إشارة عملية لا {0} بتاريخ {1}
+Amount {0} {1} against {2} {3},مبلغ {0} {1} مقابل {2} {3}
+Amount {0} {1} deducted against {2},مبلغ {0} {1} خصم مقابل {2}
+"To include tax in row {0} in Item rate, taxes in rows {1} must also be included",ل تشمل الضريبة في الصف {0} في معدل الإغلاق ، {1} ويجب أيضا تضمين الضرائب في الصفوف
+Charge of type 'Actual' in row {0} cannot be included in Item Rate or Paid Amount,@@
+Valuation type charges can not be marked as Inclusive,لا يمكن تحديد رسوم نوع التقييم على أنها شاملة
+Splitting {0} {1} into {2} rows as per Payment Terms,@@
+Account: {0} is not permitted under Payment Entry,الحساب: {0} غير مسموح به بموجب إدخال الدفع
+{0} is on hold till {1},{0} معلق حتى {1}
+Discount of {} applied as per Payment Term,@@
+{0} account is not of type {1},@@
+Payment Request,طلب الدفع من قبل المورد
+Get Payments from,احصل على المدفوعات من
+Payment Entry,تدوينات المدفوعات
+Create Payment Entries,إنشاء إدخالات الدفع
+For Supplier,للمورد
+Supplier,المورد
+Mode of Payment,طريقة الدفع
+Submit,تسجيل
+{0} {1} created,{0} {1} إنشاء
+Allocate,تخصيص
+Reconcile,توفيق
+No Unreconciled Invoices and Payments found for this party and account,@@
+No Outstanding Invoices found for this party,@@
+No Unreconciled Payments found for this party,@@
+Select Difference Account,حدد حساب الفرق
+Allocation,توزيع
+Voucher No,رقم السند
+Difference Account,حساب الفرق
+Difference Amount,مقدار الفرق
+Reconcile Entries,التوفيق بين المدخلات
+Successfully Reconciled,تمت التسوية بنجاح\n<br>\nSuccessfully Reconciled
+Please select {0} first,الرجاء تحديد {0} أولا\n<br>\nPlease select {0} first
+No records found in the Invoices table,@@
+No records found in the Payments table,@@
+No records found in Allocation table,@@
+Requested,طلب
+Initiated,بدأت
+Partially Paid,مدفوعاً جزئياً
+Paid,مدفوع
+Resend Payment Email,إعادة إرسال الدفعة عبر البريد الإلكتروني
+Sending,إرسال
+Message Sent,تم ارسال الرسالة
+Create Payment Entry,إنشاء إدخال الدفع
+To create a Payment Request reference document is required,لإنشاء مستند مرجع طلب الدفع مطلوب
+Total Payment Request amount cannot be greater than {0} amount,لا يمكن أن يكون إجمالي مبلغ طلب الدفع أكبر من {0} المبلغ
+Transaction currency must be same as Payment Gateway currency,يجب أن تكون العملة المعاملة نفس العملة بوابة الدفع
+Payment Entry already exists,تدوين المدفوعات موجود بالفعل
+Payment Request for {0},طلب الدفع ل {0}
+Payment Entry is already created,تدوين المدفوعات تم انشاؤه بالفعل
+Requesting payment against {0} {1} for amount {2},طلب الدفعة مقابل {0} {1} لقيمة {2}
+Make Payment,قم بالدفع
+"If you have any questions, please get back to us.",إذا كان لديك أي أسئلة، يرجى أن تعود الينا.
+Thank you for your business!,شكرا لك على عملك!
+"The Payment Request {0} is already paid, cannot process payment twice",@@
+Group,مجموعة
+Combined invoice portion must equal 100%,يجب أن يساوي جزء الفاتورة مجتمعة 100٪
+Row {0}: Payment Term is mandatory,@@
+The Payment Term at row {0} is possibly a duplicate.,قد يكون مصطلح الدفع في الصف {0} مكررا.
+"The GL Entries will be cancelled in the background, it can take a few minutes.",@@
+Closing Account {0} must be of type Liability / Equity,يجب ان يكون الحساب الختامي {0} من النوع متطلبات/الأسهم\n<br>\nClosing Account {0} must be of type Liability / Equity
+Currency of the Closing Account must be {0},عملة الحساب الختامي يجب أن تكون {0}
+Another Period Closing Entry {0} has been made after {1},قيد إقفال فترة أخرى {0} تم إنشائها بعد {1}
+"Previous Year is not closed, please close it first",@@
+"The GL Entries will be processed in the background, it can take a few minutes.",@@
+Sales Summary,ملخص المبيعات
+Mode of Payments,طريقة الدفع
+Taxes,الضرائب
+Rate,سعر السلعة المفردة
+POS Closing Failed,@@
+Processing Sales! Please Wait...,@@
+Selected POS Opening Entry should be open.,يجب أن يكون الإدخال الافتتاحي المحدد لنقاط البيع مفتوحًا.
+Duplicate POS Invoices found,@@
+POS Invoice is {},فاتورة نقاط البيع {}
+POS Profile doesn't matches {},الملف الشخصي لنقطة البيع لا يتطابق مع {}
+POS Invoice is not {},فاتورة نقاط البيع ليست {}
+POS Invoice isn't created by user {},لم ينشئ المستخدم فاتورة نقاط البيع {}
+Row #{}: {},رقم الصف {}: {}
+Invalid POS Invoices,فواتير نقاط البيع غير صالحة
+Please specify Company to proceed,الرجاء تحديد الشركة للمضى قدما\n<br>\nPlease specify Company to proceed
+POS Invoice should have {} field checked.,يجب أن يتم فحص الحقل {} فاتورة نقاط البيع.
+You need to cancel POS Closing Entry {} to be able to cancel this document.,@@
+Payment related to {0} is not completed,الدفع المتعلق بـ {0} لم يكتمل
+Item Unavailable,العنصر غير متوفر
+Duplicate Serial No {0} found,@@
+Row #{}: Following Serial numbers for item {} are <b>Invalid</b>: {},@@
+Invalid Item,عنصر غير صالح
+Row #{}: Item Code: {} is not available under warehouse {}.,الصف # {}: رمز العنصر: {} غير متوفر ضمن المستودع {}.
+Row #{}: You must select {} serial numbers for item {}.,الصف # {}: يجب تحديد {} الأرقام التسلسلية للعنصر {}.
+At least one mode of payment is required for POS invoice.,يلزم وضع واحد نمط واحد للدفع لفاتورة نقطة البيع.\n<br>\nAt least one mode of payment is required for POS invoice.
+The selected change account {} doesn't belongs to Company {}.,حساب التغيير المحدد {} لا ينتمي إلى الشركة {}.
+Please enter Account for Change Amount,الرجاء إدخال الحساب لمبلغ التغيير\n<br> \nPlease enter Account for Change Amount
+Row #{0} (Payment Table): Amount must be positive,الصف رقم {0} (جدول الدفع): يجب أن يكون المبلغ موجبا
+Row #{0} (Payment Table): Amount must be negative,الصف # {0} (جدول الدفع): يجب أن يكون المبلغ سلبيًا
+Total payments amount can't be greater than {},لا يمكن أن يكون إجمالي المدفوعات أكبر من {}
+Company {} does not match with POS Profile Company {},@@
+No POS Profile found. Please create a New POS Profile first,@@
+Payment amount cannot be less than or equal to 0,لا يمكن أن يكون مبلغ الدفعة أقل من أو يساوي 0
+Please enter the phone number first,الرجاء إدخال رقم الهاتف أولاً
+Atleast one invoice has to be selected.,يجب تحديد فاتورة واحدة على الأقل.
+Row #{}: POS Invoice {} is not against customer {},الصف رقم {}: فاتورة نقاط البيع {} ليست ضد العميل {}
+Row #{}: POS Invoice {} is not submitted yet,الصف رقم {}: فاتورة نقاط البيع {} لم يتم تقديمها بعد
+Row #{}: POS Invoice {} has been {},الصف رقم {}: فاتورة نقاط البيع {} كانت {}
+Row #{}: Original Invoice {} of return invoice {} is {}.,@@
+You can add original invoice {} manually to proceed.,يمكنك إضافة الفاتورة الأصلية {} يدويًا للمتابعة.
+POS Invoices will be consolidated in a background process,@@
+POS Invoices will be unconsolidated in a background process,@@
+Scheduler is inactive. Cannot enqueue job.,@@
+POS Profile {} does not belongs to company {},الملف الشخصي لنقاط البيع {} لا ينتمي إلى الشركة {}
+User {} is disabled. Please select valid user/cashier,المستخدم {} معطل. الرجاء تحديد مستخدم / أمين صندوق صالح
+Please set default Cash or Bank account in Mode of Payment {},الرجاء تعيين حساب نقدي أو مصرفي افتراضي في طريقة الدفع {}
+Please set default Cash or Bank account in Mode of Payments {},الرجاء تعيين حساب نقدي أو مصرفي افتراضي في طريقة الدفع {}
+Missing Account,حساب مفقود
+"Already set default in pos profile {0} for user {1}, kindly disabled default",تم تعيين الإعداد الافتراضي في الملف الشخصي لنقطة البيع {0} للمستخدم {1}، يرجى تعطيل الإعداد الافتراضي
+{0} does not belong to Company {1},{0} لا تنتمي إلى شركة {1}
+Duplicate item group found in the item group table,تم العثور علي مجموعه عناصر مكرره في جدول مجموعه الأصناف\n<br>\nDuplicate item group found in the item group table
+Duplicate Item Group,@@
+Duplicate customer group found in the cutomer group table,تم العثور على فئة زبائن مكررة في جدول فئات الزبائن
+Duplicate Customer Group,@@
+Payment methods are mandatory. Please add at least one payment method.,طرق الدفع إلزامية. الرجاء إضافة طريقة دفع واحدة على الأقل.
+Please select a default mode of payment,الرجاء تحديد طريقة الدفع الافتراضية
+You can only select one mode of payment as default,يمكنك تحديد طريقة دفع واحدة فقط كطريقة افتراضية
+"Pricing Rule is made to overwrite Price List / define discount percentage, based on some criteria.",خاصية قاعدة التسعير تم تكوينها لتقوم بعمليات اعادة كتابة لقوائم الاسعار و تحديد نسبة التخفيض، استنادا إلى بعض المعايير.
+"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.",إذا تم تحديد قاعدة التسعير المحددة &#39;معدل&#39;، فإنه سيتم استبدال قائمة الأسعار. التسعير معدل القاعدة هو المعدل النهائي، لذلك لا ينبغي تطبيق أي خصم آخر. وبالتالي، في المعاملات مثل أمر المبيعات، أمر الشراء وما إلى ذلك، فإنه سيتم جلب في حقل &quot;معدل&quot;، بدلا من حقل &quot;قائمة الأسعار السعر&quot;.
+"Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand.",خاصية قاعدة التسعير يمكن تطبيقها على  بند، فئة بنود او علامة التجارية.
+"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.",ثم يتم تصفيت قاعدة التسعير على أساس العملاء، مجموعة العملاء، الأرض، المورد، نوع المورد ، الحملة، شريك المبيعات الخ
+Duplicate {0} found in the table,مكرر {0} موجود في الجدول
+{0} is not added in the table,{0} لم تتم إضافته في الجدول
+For the 'Apply Rule On Other' condition the field {0} is mandatory,بالنسبة لشرط &quot;تطبيق القاعدة على أخرى&quot; ، يكون الحقل {0} إلزاميًا
+Rate or Discount is required for the price discount.,السعر أو الخصم مطلوب لخصم السعر.
+"As the field {0} is enabled, the field {1} is mandatory.",نظرًا لتمكين الحقل {0} ، يكون الحقل {1} إلزاميًا.
+Atleast one of the Selling or Buying must be selected,يجب اختيار واحدة من الخيارات على الاقل اما البيع او الشراء
+"Selling must be checked, if Applicable For is selected as {0}",يجب أن يتم التحقق البيع، إذا تم تحديد مطبق للك {0}
+"Buying must be checked, if Applicable For is selected as {0}",يجب أن يتم التحقق الشراء، إذا تم تحديد مطبق للك {0}
+Min Qty can not be greater than Max Qty,الكمية الادنى لايمكن ان تكون اكبر من الكمية الاعلى
+Min Amt can not be greater than Max Amt,مين آمت لا يمكن أن يكون أكبر من ماكس آمت
+Min Qty should be greater than Recurse Over Qty,@@
+Recurse Over Qty cannot be less than 0,@@
+{0} can not be negative,{0} لا يمكن أن يكون سالبا
+Free item code is not selected,لم يتم تحديد رمز العنصر المجاني
+Max discount allowed for item: {0} is {1}%,الحد الاعلى المسموح به في التخفيض للمنتج : {0} هو  {1}٪
+Currency should be same as Price List Currency: {0},يجب أن تكون العملة مماثلة لعملة قائمة الأسعار: {0}
+Valid from and valid upto fields are mandatory for the cumulative,صالحة من وحقول تصل صالحة إلزامية للتراكمية
+Valid from date must be less than valid upto date,صالح من تاريخ يجب أن يكون أقل من تاريخ يصل صالح
+Invalid condition expression,تعبير شرط غير صالح
+Item Group not mentioned in item master for item {0},فئة البند غير مذكورة في ماستر البند لهذا البند {0}
+Invalid {0},غير صالح {0}
+"If you {0} {1} worth item {2}, the scheme {3} will be applied on the item.",إذا كنت {0} {1} تستحق العنصر {2} ، فسيتم تطبيق النظام {3} على العنصر.
+User has not applied rule on the invoice {0},لم يطبق المستخدم قاعدة على الفاتورة {0}
+Free item not set in the pricing rule {0},عنصر حر غير مضبوط في قاعدة التسعير {0}
+"Sorry, this coupon code's validity has not started",عذرًا ، لم تبدأ صلاحية رمز القسيمة
+"Sorry, this coupon code's validity has expired",عذرا ، لقد انتهت صلاحية رمز القسيمة
+"Sorry, this coupon code is no longer valid",عذرا ، رمز القسيمة هذا لم يعد صالحًا
+{0} Coupon used are {1}. Allowed quantity is exhausted,{0} القسيمة المستخدمة هي {1}. الكمية المسموح بها مستنفدة
+End date cannot be before start date,لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البدء
+Reconciliation Logs,@@
+Start / Resume,@@
+Job Started,بدأ العمل
+Pause,وقفة
+Job Paused,@@
+Receivable/Payable Account: {0} doesn't belong to company {1},@@
+Bank/Cash Account {0} doesn't belong to company {1},@@
+Auto Reconciliation of Payments has been disabled. Enable it through {0},@@
+Scheduler is Inactive. Can't trigger job now.,@@
+Scheduler is Inactive. Can't trigger jobs now.,@@
+Reconciliation Progress,@@
+Tax Id:,@@
+Until,حتى
+Payment Terms,شروط الدفع
+Credit Limit,الحد الائتماني
+,@@
+Total,الاجمالي غير شامل الضريبة
+Future Payments,المدفوعات المستقبلية
+Cheques Required,الشيكات المطلوبة
+Age (Days),(العمر (أيام
+Sales Person,مندوب مبيعات
+Remarks,ملاحظات
+Invoiced Amount,قيمة الفواتير
+Paid Amount,المبلغ المدفوع
+Customer LPO No.,العميل لبو رقم
+Future Payment Ref,الدفع في المستقبل المرجع
+Future Payment Amount,مبلغ الدفع المستقبلي
+Remaining Balance,الرصيد المتبقي
+Total Invoiced Amount,إجمالي مبلغ الفاتورة
+Total Paid Amount,إجمالي المبلغ المدفوع
+Total Outstanding Amount,إجمالي المبلغ المستحق
+Ageing Report based on,@@
+Printed On,@@
+STATEMENTS OF ACCOUNTS,@@
+Customer:,@@
+Customer Name:,@@
+Date:,@@
+Debit,مدين
+Credit,دائن
+Balance (Dr - Cr),الرصيد (مدين - دائن)
+Supplier Invoice No,رقم فاتورة المورد
+Send Emails,@@
+Emails Queued,رسائل البريد الإلكتروني في قائمة الانتظار
+No Records for these settings.,@@
+No Customers found with selected options.,@@
+Customers not selected.,العملاء لم يتم اختيارهم.
+No billing email found for customer: {0},@@
+No primary email found for customer: {0},@@
+Either 'Selling' or 'Buying' must be selected,@@
+Price or product discount slabs are required,ألواح سعر الخصم أو المنتج مطلوبة
+Pricing Rule {0} is updated,يتم تحديث قاعدة التسعير {0}
+New {0} pricing rules are created,يتم إنشاء قواعد تسعير جديدة {0}
+Returns,النتائج
+Subscription,اشتراك
+On Hold,في الانتظار
+Temporarily on Hold,مؤقت في الانتظار
+Purchase Receipt,إستلام المشتريات
+Accounting entries for this invoice need to be reposted. Please click on 'Repost' button to update.,@@
+Get Items From,الحصول على البنود من
+Creating Purchase Receipt ...,@@
+Release date must be in the future,يجب أن يكون تاريخ الإصدار في المستقبل
+Cash or Bank Account is mandatory for making payment entry,الحساب النقدي أو البنكي مطلوب لعمل مدخل بيع <br>Cash or Bank Account is mandatory for making payment entry
+Paid amount + Write Off Amount can not be greater than Grand Total,المبلغ المدفوع + المبلغ المشطوب لا يمكن ان يكون أكبر من المجموع الكلي\n<br>\nPaid amount + Write Off Amount can not be greater than Grand Total
+Against Supplier Invoice {0} dated {1},مقابل فاتورة المورد {0} بتاريخ {1}
+No Remarks,لا ملاحظات
+Invalid Account,حساب غير صالح
+Item Code required at Row No {0},رمز العنصر المطلوب في الصف رقم {0}\n<br>\nItem Code required at Row No {0}
+Expense Head Changed,تغيير رأس المصاريف
+Please set Fixed Asset Account in {} against {}.,@@
+Expense account is mandatory for item {0},اجباري حساب النفقات للصنف {0}
+Purchase Order Required for item {},طلب الشراء مطلوب للعنصر {}
+Purchase Order Required,أمر الشراء مطلوب
+Mandatory Purchase Order,أمر شراء إلزامي
+Purchase Receipt Required for item {},إيصال الشراء مطلوب للعنصر {}
+Purchase Receipt Required,إيصال استلام المشتريات مطلوب
+Mandatory Purchase Receipt,إيصال الشراء الإلزامي
+Please enter Write Off Account,الرجاء إدخال حساب الشطب
+Purchase Order {0} is not submitted,طلب الشراء {0} يجب أن يعتمد\n<br>\nPurchase Order {0} is not submitted
+Purchase Receipt {0} is not submitted,إيصال استلام المشتريات {0} لم يتم تقديمه
+Stock cannot be updated against Purchase Receipt {0},لا يمكن تحديث المخزون مقابل إيصال الشراء {0}\n<br>\nStock cannot be updated against Purchase Receipt {0}
+Accounting Entry for Stock,القيود المحاسبية للمخزون
+Please set account in Warehouse {0},يرجى تعيين الحساب في مستودع {0}
+Cost Center is required in row {0} in Taxes table for type {1},مركز التكلفة مطلوب في الصف {0} في جدول الضرائب للنوع {1}\n<br>\nCost Center is required in row {0} in Taxes table for type {1}
+Supplier Invoice Date cannot be greater than Posting Date,تاريخ فاتورة المورد لا يمكن أن تكون أكبر من تاريخ الإنشاء<br> Supplier Invoice Date cannot be greater than Posting Date
+Supplier Invoice No exists in Purchase Invoice {0},المورد فاتورة لا يوجد في شراء الفاتورة {0}
+Purchase Invoices,فواتير الشراء
+Transactions,المعاملات
+Please select Category first,الرجاء تحديد التصنيف أولا\n<br>\nPlease select Category first
+Cannot deduct when category is for 'Valuation' or 'Valuation and Total',"لا يمكن الخصم عندما تكون الفئة ""التقييم"" أو ""التقييم والإجمالي"""
+Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',لا يمكن خصمها عند الفئة ' التقييم ' أو ' التقييم والمجموع '\n<br>\nCannot deduct when category is for 'Valuation' or 'Valuation and Total'
+Show Preview,@@
+Generating Preview,@@
+Cannot Resubmit Ledger entries for vouchers in Closed fiscal year.,@@
+Repost has started in the background,@@
+Documents: {0} have deferred revenue/expense enabled for them. Cannot repost.,@@
+{0} {1} not allowed to be reposted. Modify {2} to enable reposting.,@@
+Repost in background,@@
+Reposting in the background.,@@
+Repost started in the background,@@
+Internal Transfers,@@
+Delivery Note,إشعار التسليم
+Accounting entries for this invoice needs to be reposted. Please click on 'Repost' button to update.,@@
+Fetch Timesheet,@@
+From,من
+To,إلى
+Project,مشروع
+Get Timesheets,@@
+Select Loyalty Program,اختر برنامج الولاء
+Loyalty Program,برنامج الولاء
+Set Loyalty Program,@@
+Credit Note Issued,الائتمان مذكرة صادرة
+Unpaid,غير مدفوع
+Overdue,تأخير
+Return,عودة
+'Update Stock' cannot be checked for fixed asset sale,لا يمكن التحقق من ' تحديث المخزون ' لبيع الأصول الثابتة\n<br>\n'Update Stock' cannot be checked for fixed asset sale
+"Row #{0}: Asset {1} cannot be submitted, it is already {2}",الصف # {0}: الاصل {1} لا يمكن تقديمه ، لانه بالفعل {2}
+Row #{0}: Cost Center {1} does not belong to company {2},الصف # {0}: مركز التكلفة {1} لا ينتمي لشركة {2}
+To cancel a {} you need to cancel the POS Closing Entry {}.,@@
+Timesheet {0} is already completed or cancelled,الجدول الزمني {0} بالفعل منتهي أو ملغى
+Debit To is required,مدين الى مطلوب
+Account Missing,الحساب مفقود
+Please ensure {} account is a Balance Sheet account.,@@
+Please ensure {} account {} is a Receivable account.,@@
+Change the account type to Receivable or select a different account.,قم بتغيير نوع الحساب إلى &quot;ذمم مدينة&quot; أو حدد حسابًا مختلفًا.
+Against Customer Order {0} dated {1},@@
+{0} is mandatory for Item {1},{0} إلزامي للصنف {1}\n<br>\n{0} is mandatory for Item {1}
+Customer {0} does not belong to project {1},العميل {0} لا ينتمي الى المشروع {1}\n<br>\nCustomer {0} does not belong to project {1}
+Paid amount + Write Off Amount can not be greater than Grand Total,المبلغ المدفوع + المبلغ المشطوب لا يمكن ان يكون أكبر من المجموع الكلي\n<br>\nPaid amount + Write Off Amount can not be greater than Grand Total
+Warehouse required for stock Item {0},مستودع الأسهم المطلوبة لل تفاصيل {0}
+Stock cannot be updated against Delivery Note {0},لا يمكن تحديث المخزون مقابل ملاحظه التسليم {0}\n<br>\nStock cannot be updated against Delivery Note {0}
+"Could not update stock, invoice contains drop shipping item.",تعذر تحديث المخزون، الفاتورة تحتوي علي بند مبعد الشحن.
+POS Profile required to make POS Entry,ملف نقطة البيع مطلوب للقيام بإدخال خاص بنقطة البيع
+Sales Order {0} is not submitted,لا يتم اعتماد أمر التوريد {0}\n<br>\nSales Order {0} is not submitted
+Delivery Note {0} is not submitted,لم يتم اعتماد ملاحظه التسليم {0}\n<br>\nDelivery Note {0} is not submitted
+Row #{0}: You must select an Asset for Item {1}.,@@
+Missing Asset,@@
+Select change amount account,تحديد تغيير حساب المبلغ\n<br>\nSelect change amount account
+Mandatory Field,@@
+Row #{0}: The following Serial Nos are not present in Delivery Note {1}:,@@
+Serial Nos Mismatch,@@
+Row #{0}: {1} Serial numbers required for Item {2}. You have provided {3}.,@@
+Invalid {0} for Inter Company Transaction.,غير صالح {0} للمعاملات بين الشركات.
+Invalid Company for Inter Company Transaction.,شركة غير صالحة للمعاملات بين الشركات.
+Invoices,الفواتير
+Please set default Cash or Bank account in Mode of Payment {0},الرجاء تحديد الحساب البنكي أو النقدي الافتراضي في نوع الدفع\n<br>\nPlease set default Cash or Bank account in Mode of Payment {0}
+No Supplier found for Inter Company Transactions which represents company {0},لم يتم العثور على مورد للمعاملات بين الشركات التي تمثل الشركة {0}
+No Customer found for Inter Company Transactions which represents company {0},لم يتم العثور على زبون للمعاملات بين الشركات التي تمثل الشركة {0}
+Selected Price List should have buying and selling fields checked.,قائمة الأسعار المختارة يجب أن يكون لديها حقول بيع وشراء محددة.
+No {0} found for Inter Company Transactions.,لم يتم العثور على {0} معاملات Inter Company.
+Company currencies of both the companies should match for Inter Company Transactions.,يجب أن تتطابق عملات الشركة لكلتا الشركتين مع معاملات Inter Inter Company.
+Please cancel and amend the Payment Entry,@@
+to unallocate the amount of this Return Invoice before cancelling it.,@@
+Disabled template must not be default template,يجب ألا يكون النموذج المعطل هو النموذج الافتراضي
+Create Journal Entry,إنشاء إدخال دفتر اليومية
+The shares already exist,الأسهم موجودة بالفعل
+The shares don't exist with the {0},الأسهم غير موجودة مع {0}
+The field From Shareholder cannot be blank,لا يمكن ترك الحقل من المساهمين فارغا
+The field Asset Account cannot be blank,لا يمكن أن يكون حقل الأصول حساب فارغًا
+The field To Shareholder cannot be blank,لا يمكن ترك الحقل للمساهم فارغا
+The fields From Shareholder and To Shareholder cannot be blank,لا يمكن ترك الحقول من المساهمين والمساهم فارغا
+The field Equity/Liability Account cannot be blank,لا يمكن أن يكون حساب حقوق الملكية / المسؤولية فارغًا
+The seller and the buyer cannot be the same,البائع والمشتري لا يمكن أن يكون هو نفسه
+The number of shares and the share numbers are inconsistent,عدد الأسهم وأعداد الأسهم غير متناسقة
+"There are inconsistencies between the rate, no of shares and the amount calculated",هناك تناقضات بين المعدل، لا من الأسهم والمبلغ المحسوب
+The shareholder does not belong to this company,لا ينتمي المساهم إلى هذه الشركة
+The folio numbers are not matching,أرقام الورقة غير متطابقة
+Share Balance,رصيد السهم
+Share Ledger,مشاركة دفتر الأستاذ
+From value must be less than to value in row {0},(من القيمة) يجب أن تكون أقل من (الي القيمة) في الصف {0}
+"Shipping Address does not have country, which is required for this Shipping Rule",عنوان الشحن ليس لديه بلد، وهو مطلوب لقاعدة الشحن هذه
+Shipping rule not applicable for country {0} in Shipping Address,قاعدة الشحن لا تنطبق على البلد {0} في عنوان الشحن
+Shipping rule only applicable for Selling,الشحن القاعدة المعمول بها فقط للبيع
+Shipping rule only applicable for Buying,الشحن القاعدة المعمول بها فقط للشراء
+Overlapping conditions found between:,الشروط المتداخله التي تم العثور عليها بين:\n<br>\nOverlapping conditions found between:
+and,و
+Trialling,تجربته
+Active,نشط
+Completed,أكتمل
+Past Due Date,تاريخ الاستحقاق السابق
+Cancel Subscription,إلغاء الاشتراك
+Fetch Subscription Updates,جلب تحديثات الاشتراك
+Restart Subscription,إعادة تشغيل الاشتراك
+This action will stop future billing. Are you sure you want to cancel this subscription?,سيوقف هذا الإجراء الفوترة المستقبلية. هل أنت متأكد من أنك تريد إلغاء هذا الاشتراك؟
+You can only have Plans with the same billing cycle in a Subscription,يمكنك فقط الحصول على خطط مع دورة الفواتير نفسها في الاشتراك
+Invoice {0} no longer exists,الفاتورة {0} لم تعد موجودة
+Trial Period End Date Cannot be before Trial Period Start Date,لا يمكن أن يكون تاريخ انتهاء الفترة التجريبية قبل تاريخ بدء الفترة التجريبية
+Both Trial Period Start Date and Trial Period End Date must be set,يجب تعيين كل من تاريخ بدء الفترة التجريبية وتاريخ انتهاء الفترة التجريبية
+Trial Period Start date cannot be after Subscription Start Date,لا يمكن أن يكون تاريخ بدء الفترة التجريبية بعد تاريخ بدء الاشتراك
+Subscription End Date must be after {0} as per the subscription plan,يجب أن يكون تاريخ انتهاء الاشتراك بعد {0} وفقًا لخطة الاشتراك
+Subscription End Date is mandatory to follow calendar months,تاريخ انتهاء الاشتراك إلزامي لمتابعة الأشهر التقويمية
+Billing Interval in Subscription Plan must be Month to follow calendar months,@@
+Subscription {0}: Current invoice is missing.,@@
+You cannot restart a Subscription that is not cancelled.,لا يمكنك إعادة تشغيل اشتراك غير ملغى.
+Billing Interval Count cannot be less than 1,لا يمكن أن يكون عدد فترات إعداد الفواتير أقل من 1
+Tax Template is mandatory.,قالب الضرائب إلزامي.
+From Date cannot be greater than To Date,(من تاريخ) لا يمكن أن يكون أكبر (الي التاريخ)
+Tax Rule Conflicts with {0},تضارب القاعدة الضريبية مع {0}
+Row #{0}: From Date cannot be before To Date,@@
+Row #{0}: Dates overlapping with other row,@@
+Account {0} added multiple times,@@
+Please set associated account in Tax Withholding Category {0} against Company {1},يرجى تعيين الحساب المرتبط في فئة الضريبة المستقطعة {0} مقابل الشركة {1}
+No Tax Withholding data found for the current posting date.,@@
+Only {0} are supported,@@
+Fiscal Year,السنة المالية
+New fiscal year created :-,@@
+Payment Receipt Note,إشعار إيصال الدفع
+Received On,وردت في
+Received From,مستلم من
+For,لأجل
+Authorized Signatory,المخول بالتوقيع
+Purchase Invoice,فاتورة شراء
+Sales Invoice,فاتورة مبيعات
+Sr,ر.ت
+Page {0} of {1},الصفحة {0} من {1}
+Too many columns. Export the report and print it using a spreadsheet application.,عدد كبير جدا من الأعمدة. تصدير التقرير وطباعته باستخدام تطبيق جدول البيانات.
+Start Year and End Year are mandatory,سنة البداية وسنة الانتهاء إلزامية
+End Year cannot be before Start Year,نهاية العام لا يمكن أن يكون قبل بداية العام
+From Date and To Date are mandatory,@@
+To Date cannot be less than From Date,لا يمكن أن يكون تاريخ التاريخ أقل من تاريخ
+Could not retrieve information for {0}.,تعذر استرداد المعلومات ل {0}.
+Total {0} ({1}),إجمالي {0} ({1})
+"To use a different finance book, please uncheck 'Include Default FB Entries'",@@
+Cost Center: {0} does not exist,مركز التكلفة: {0} غير موجود
+Asset,الأصول
+Liability,الخصوم
+Expense,نفقة
+Bank,مصرف
+Chargeble,Chargeble
+Capital Work in Progress,العمل الرأسمالي في التقدم
+Expense Account,حساب النفقات
+Fixed Asset,الأصول الثابتة
+Income Account,حساب الدخل
+Payable,واجب الدفع
+Receivable,مستحق
+Tax,ضريبة
+Temporary,مؤقت
+Balance,الموازنة
+Finance Book,كتاب المالية
+Cost Center,مركز التكلفة
+Payable Account,حساب الدائنين
+Ageing Based On,العمرعلى أساس
+Ageing Range 1,مدى العمر 1
+Ageing Range 2,مدى العمر 2
+Ageing Range 3,مدى العمر 3
+Ageing Range 4,الشيخوخة المدى 4
+Payment Terms Template,نموذج شروط الدفع
+Party Type,نوع الطرف
+Supplier Group,مجموعة الموردين
+Group By Supplier,المجموعة حسب المورد
+Based On Payment Terms,بناء على شروط الدفع
+Show Remarks,@@
+Show Future Payments,إظهار المدفوعات المستقبلية
+Revaluation Journals,@@
+In Party Currency,@@
+Group by Voucher,المجموعة بواسطة قسيمة
+Accounts Payable Summary,ملخص الحسابات المستحقة للدفع
+Receivable Account,حساب مدين
+Customer Group,مجموعة العميل
+Sales Partner,شريك المبيعات
+Territory,إقليم
+Group By Customer,المجموعة حسب العميل
+Show Linked Delivery Notes,إظهار ملاحظات التسليم المرتبطة
+Show Sales Person,عرض شخص المبيعات
+Accounts Receivable Summary,ملخص الحسابات المدينة
+Customer Contact,معلومات اتصال العميل
+Customer Name,اسم العميل
+Supplier Name,اسم المورد
+Voucher Type,نوع السند
+Bill No,رقم الفاتورة
+Bill Date,تاريخ الفاتورة
+Payment Term,مصطلح الدفع
+Invoice Grand Total,الفاتورة الكبرى المجموع
+Credit Note,إشعار دائن
+Debit Note,إشعار مدين
+Customer LPO,العميل لبو
+Delivery Notes,مذكرات التسليم
+{range4}-Above,@@
+Customer Group: {0} does not exist,@@
+Show GL Balance,@@
+Advance Amount,المبلغ مقدما
+GL Balance,@@
+Difference,فرق
+Above,فوق
+Asset Category,فئة الأصول
+Include Default FB Assets,@@
+"To use a different finance book, please uncheck 'Include Default FB Assets'",@@
+Depreciation Date,تاريخ الإهلاك
+Purchase Amount,قيمة الشراء
+Opening Accumulated Depreciation,الاهلاك التراكمي الافتتاحي
+Depreciation Amount,قيمة الإهلاك
+Accumulated Depreciation Amount,قيمة الاستهلاك المتراكمة
+Value After Depreciation,القيمة بعد الاستهلاك
+Depreciation Entry,حركة الإهلاك
+Current Status,الحالة الحالية
+Purchase Date,تاريخ الشراء
+Cost as on,التكلفة كما في
+Cost of New Purchase,تكلفة الشراء الجديد
+Cost of Sold Asset,تكلفة الأصول المباعة
+Cost of Scrapped Asset,تكلفة الأصول الملغاة او المخردة
+Accumulated Depreciation as on,الاستهلاك المتراكم كما في
+Depreciation Amount during the period,قيمة الإهلاك خلال الفترة
+Depreciation Eliminated due to disposal of assets,تم إلغاء الإهلاك بسبب التخلص من الأصول
+Net Asset value as on,صافي قيمة الأصول كما في
+Select View,@@
+Report View,@@
+Growth View,@@
+Accumulated Values,القيم المتراكمة
+Include Default FB Entries,تضمين إدخالات دفتر افتراضي
+Unclosed Fiscal Years Profit / Loss (Credit),غير مغلقة سنتين الماليتين الربح / الخسارة (الائتمان)
+Total (Credit),الإجمالي (الائتمان)
+Provisional Profit / Loss (Credit),الربح / الخسارة المؤقته (دائن)
+Previous Financial Year is not closed,السنة المالية السابقة ليست مغلقة
+Total Asset,@@
+Total Liability,@@
+Total Equity,@@
+Liabilities,المطلوبات
+Bank Account,حساب مصرفي
+Payment Document Type,نوع مستند الدفع
+Cheque/Reference No,رقم الصك / السند المرجع
+Clearance Date,تاريخ الاستحقاق
+Against Account,مقابل الحساب
+Bank Reconciliation Statement,بيان تسوية حساب بنكية
+Against,مقابل
+Reference Date,المرجع تاريخ
+Include POS Transactions,تشمل معاملات نقطه البيع
+Bank Statement balance as per General Ledger,كشف رصيد الحساب المصرفي وفقا لدفتر الأستاذ العام
+Outstanding Cheques and Deposits to clear,الشيكات و الإيداعات المعلقة لتوضيح او للمقاصة
+Cheques and Deposits incorrectly cleared,الشيكات والودائع موضحة او المقاصة تمت بشكل غير صحيح
+Calculated Bank Statement balance,حساب رصيد الحساب المصرفي
+Payment Document,وثيقة الدفع
+Ref Date,تاريخ المرجع
+As on Date,@@
+Item Code,رمز السلعة
+Item Name,اسم السلعة
+UOM,وحدة القياس
+Invoiced Qty,@@
+Received Qty,تلقى الكمية
+variance,@@
+From Fiscal Year,من السنة المالية
+To Fiscal Year,إلى السنة المالية
+Period,فترة
+Monthly,شهريا
+Quarterly,فصلي
+Half-Yearly,نصف سنوية
+Yearly,سنويا
+Budget Against,الميزانية مقابل
+Dimension Filter,مرشح البعد
+Show Cumulative Amount,إظهار المبلغ التراكمي
+Actual,الفعلية
+Variance,فرق
+Total Budget,الميزانية الإجمالية
+Total Actual,الإجمالي الفعلي
+Total Variance,مجموع الفروق
+Actual Expense,@@
+Net Change in Cash,صافي التغير في النقد
+Net Cash from Operations,صافي النقد من العمليات
+Cash Flow from Operations,التدفق النقدي من العمليات
+Net Change in Accounts Receivable,صافي التغير في الحسابات المدينة
+Net Change in Accounts Payable,صافي التغير في الحسابات الدائنة
+Net Change in Inventory,صافي التغير في المخزون
+Net Cash from Investing,صافي النقد من الاستثمار
+Cash Flow from Investing,التدفق النقد من الاستثمار
+Net Change in Fixed Asset,صافي التغير في الأصول الثابتة
+Net Cash from Financing,صافي النقد من التمويل
+Cash Flow from Financing,التدفق النقدي من التمويل
+Net Change in Equity,صافي التغير في حقوق الملكية
+{0},@@
+Filter Based On,عامل التصفية على أساس
+Start Date,تاريخ البدء
+End Date,نهاية التاريخ
+Start Year,بداية السنة
+End Year,نهاية السنة
+Report,تقرير
+Accumulated Values in Group Company,القيم المتراكمة في مجموعة الشركة
+Show zero values,إظهار القيم صفر
+Customer,العميل
+Tax Id,الرقم الضريبي
+From Date must be before To Date,يجب أن تكون من تاريخ إلى تاريخ قبل
+Opening Balance,الرصيد الافتتاحي
+Closing Balance,الرصيد الختامي
+Periodicity,دورية
+Revenue,@@
+Show with upcoming revenue/expense,@@
+Name,اسم
+Actual Posting,@@
+Expected,@@
+Billed Amount,القيمة المقدم فاتورة بها
+Returned Amount,المبلغ المرتجع
+Pending Amount,في انتظار المبلغ
+Description,وصف
+Select Dimension,@@
+Payment Ledger Balance,@@
+Statement of Account,كشف حساب
+Party Name,اسم الطرف
+Group by,المجموعة حسب
+Group by Voucher (Consolidated),مجموعة بواسطة قسيمة (الموحدة)
+Group by Account,مجموعة بواسطة حساب
+Group by Party,مجموعة حسب الحزب
+Consider Accounting Dimensions,ضع في اعتبارك أبعاد المحاسبة
+Show Opening Entries,إظهار إدخالات الافتتاح
+Show Cancelled Entries,إظهار الإدخالات الملغاة
+Show Net Values in Party Account,@@
+Ignore Exchange Rate Revaluation Journals,@@
+Select an account to print in account currency,حدد حسابا للطباعة بعملة الحساب
+Opening,افتتاحي
+Closing (Opening + Total),الإغلاق (الافتتاحي + الإجمالي)
+{0} and {1} are mandatory,{0} و {1} إلزاميان
+Account {0} does not exists,الحساب {0} غير موجود
+"Can not filter based on Child Account, if grouped by Account",@@
+"Can not filter based on Voucher No, if grouped by Voucher",لا يمكن الفلتره علي اساس (رقم الأيصال)، إذا تم وضعه في مجموعة على اساس (ايصال)
+Invalid {0}: {1},{0} غير صالح : {1}\n<br>\nInvalid {0}: {1}
+Account: {0} does not exist,@@
+GL Entry,GL الدخول
+Debit ({0}),مدين ({0})
+Credit ({0}),الائتمان ({0})
+Balance ({0}),الرصيد ({0})
+Against Voucher Type,مقابل إيصال  نوع
+Against Voucher,مقابل إيصال
+Nothing is included in gross,لا شيء مدرج في الإجمالي
+Included in Gross Profit,المدرجة في الربح الإجمالي
+Net Profit,صافي الربح
+Group By,مجموعة من
+Item Group,مجموعة الصنف
+Posting Time,نشر التوقيت
+Brand,العلامة التجارية
+Warehouse,المستودعات
+Qty,الكمية
+Avg. Selling Rate,متوسط معدل البيع
+Valuation Rate,سعر التقييم
+Selling Amount,كمية البيع
+Buying Amount,قيمة الشراء
+Gross Profit,الربح الإجمالي
+Gross Profit Percent,@@
+Allocated Amount,المبلغ المخصص
+Sales Return,مبيعات المعاده
+No Terms,@@
+Item,السلعة
+Based On,وبناء على
+Days Since Last order,الأيام منذ آخر طلب
+Last Order Date,تاريخ أخر أمر بيع
+Quantity,كمية
+Days Since Last Order,أيام منذ آخر طلب
+Invoice,فاتورة
+Mode Of Payment,طريقة الدفع
+Purchase Order,أمر الشراء
+Stock Qty,الأسهم الكمية
+Stock UOM,وحدة قياس السهم
+% Of Grand Total,٪ من المجموع الكلي
+Sales Order,طلب المبيعات
+Total Tax,مجموع الضرائب
+Total Other Charges,@@
+Against Voucher No,@@
+Include Account Currency,@@
+Amount in Account Currency,@@
+Payment Type,نوع الدفع
+Incoming,الوارد
+Outgoing,الصادر
+Please select Party Type first,يرجى تحديد نوع الطرف أولا
+{0} payment entries can not be filtered by {1},{0} لا يمكن فلترة المدفوعات المدخلة  {1}
+Invoice Posting Date,تاريخ ترحيل الفاتورة
+Payment Due Date,تاريخ استحقاق السداد
+Age,عمر
+0-30,@@
+30-60,@@
+60-90,@@
+90 Above,@@
+Delay in payment (Days),التأخير في الدفع (أيام)
+POS Profile,الملف الشخصي لنقطة البيع
+Cashier,أمين الصندوق
+Payment Method,طريقة الدفع او السداد
+Is Return,مرتجع؟
+"Can not filter based on POS Profile, if grouped by POS Profile",لا يمكن التصفية بناءً على ملف تعريف نقطة البيع ، إذا تم تجميعها حسب ملف تعريف نقطة البيع
+"Can not filter based on Customer, if grouped by Customer",لا يمكن التصفية بناءً على العميل ، إذا تم تجميعه بواسطة العميل
+"Can not filter based on Cashier, if grouped by Cashier",لا يمكن التصفية على أساس Cashier ، إذا تم تجميعها بواسطة Cashier
+"Can not filter based on Payment Method, if grouped by Payment Method",لا يمكن التصفية بناءً على طريقة الدفع ، إذا تم تجميعها حسب طريقة الدفع
+POS Invoice,فاتورة نقاط البيع
+Grand Total,المجموع الإجمالي
+Margin View,@@
+Include Default Book Entries,@@
+Profit This Year,الربح هذا العام
+Total Income This Year,إجمالي الدخل هذا العام
+Total Expense This Year,إجمالي النفقات هذا العام
+Total Income,إجمالي الدخل
+Total Expense,المصاريف الكلية
+Profit for the year,الربح السنوي
+Net Profit/Loss,صافي الربح (الخسارة
+Accounting Dimension,البعد المحاسبي
+Select Accounting Dimension.,@@
+Gross Profit / Loss,الربح الإجمالي / الخسارة
+Show Ledger View,@@
+Please select a supplier for fetching payments.,@@
+No record found,لم يتم العثور على أي سجل
+Voucher,@@
+Net Total,صافي المجموع
+Rounded Total,تقريب إجمالي
+Owner,مالك
+Show only POS,إظهار نقاط البيع فقط
+Show Payment Details,إظهار تفاصيل الدفع
+Payment Mode,طريقة الدفع
+Sales and Returns,المبيعات والمرتجعات
+Please select a customer for fetching payments.,@@
+Tax Total,مجموع الضرائب
+Shareholder,المساهم
+Please select date,يرجى تحديد التاريخ
+Share Type,نوع المشاركة
+No of Shares,عدد األسهم
+Average Rate,المعدل المتوسط
+Transfer Type,نوع النقل
+Share Transfer,نقل المشاركة
+Report Name,@@
+Mode,@@
+New Report,@@
+Custom Report,@@
+Load Report,@@
+Please change the date range to load data first,@@
+Section,@@
+New Section,@@
+Section Name,اسم القسم
+Delete Section,@@
+Are you sure you want to delete section,@@
+Component,مكون
+Component Type,نوع المكون
+Filtered Row Subtotal,@@
+Section Subtotal,القسم الفرعي الفرعي
+Add Component,@@
+Column filters ignored,@@
+Please select the Component Type first,@@
+Please select the Section first,@@
+Delete Component,@@
+Are you sure you want to delete component,@@
+Save & Run,@@
+Show Detail,@@
+Help,مساعدة
+Load,@@
+A report component cannot refer to its parent section,@@
+A report component can only refer to an earlier section,@@
+Taxes and Charges Template,@@
+The wrong report is referenced.,@@
+The parent report cannot be overwritten.,@@
+Report created successfully,@@
+Report updated successfully,@@
+From Date and To Date lie in different Fiscal Year,من التاريخ والوقت تكمن في السنة المالية المختلفة
+Section Code,كود القسم
+Entity Type,نوع الكيان
+TDS Rate %,نسبة TDS٪
+TCS Rate %,@@
+Total Amount,الاعتماد الأساسي
+Tax Amount,@@
+Supplier Invoice Date,المورد فاتورة التسجيل
+Base Total,@@
+TDS Amount,@@
+TCS Amount,@@
+Transaction Type,نوع المعاملة
+Reference No.,رقم المرجع.
+Date of Transaction,تاريخ المعاملة
+No {0} Accounts found for this company.,@@
+Accounts Missing Error,@@
+Period Closing Entry,قيد إغلاق الفترة/المدة
+Show unclosed fiscal year's P&L balances,تظهر P &amp; L أرصدة السنة المالية غير مغلق ل
+Show net values in opening and closing columns,@@
+Fiscal Year {0} is required,السنة المالية {0} مطلوبة
+Fiscal Year {0} does not exist,السنة المالية {0} غير موجودة
+From Date should be within the Fiscal Year. Assuming From Date = {0},(من التاريخ) يجب أن يكون ضمن السنة المالية. بافتراض (من التاريخ) = {0}
+To Date should be within the Fiscal Year. Assuming To Date = {0},إلى التسجيل يجب أن يكون ضمن السنة المالية. على افتراض إلى تاريخ = {0}
+Opening (Dr),افتتاحي  (Dr)
+Opening (Cr),افتتاحي (Cr)
+Closing (Dr),إغلاق (مدين)
+Closing (Cr),إغلاق (دائن)
+Totals,المجاميع

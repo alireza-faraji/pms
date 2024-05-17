@@ -20,15 +20,6 @@ frappe.query_reports["PMS Project Summary"] = {
 			"reqd": 1,
 			"width": "60px"
 		},
-		{
-			"fieldname":"user",
-			"label": __("User"),
-			"fieldtype": "Link",
-			"default": "",
-			"options":"User",
-			"reqd": 0,
-			"width": "60px"
-		},
         {
 			"fieldname":"department",
 			"label": __("Department"),
@@ -51,12 +42,14 @@ frappe.query_reports["PMS Project Summary"] = {
     ,
     "formatter": function(value, row, column, data, default_formatter) {
         value = default_formatter(value, row, column, data);
-    //    if (columnDef.id != "Customer" && columnDef.id != "Payment Date" && dataContext["Rental Payment"] < 100) {
+    //   if (columnDef.id != "Customer" && columnDef.id != "Payment Date" && dataContext["Rental Payment"] < 100) {
     //            value = "<span style='color:red!important;font-weight:bold'>" + value + "</span>";
     //     }
     //    if (columnDef.id != "Customer" && columnDef.id != "Payment Date" && dataContext["Rental Payment"] > 100) {
-               value = "aaaaa";
+   //            value = "aaaaa";
 //        }
+		if(data["doc_type"]=="main_project")
+			value = "<span style='display: block;background-color:yellow;color:red!important;font-weight:bold'>" + value + "</span>";
         return value;
     }
 };

@@ -56,7 +56,7 @@ def get_projects(filters):
 
 	return entries
 def get_sub_projects(filters,main_project):
-	select_fields = """`tabProject`.`custom_main_project`,`tabProject`.`custom_sector`,`tabProject`.`custom_ministry`,`tabProject`.`custom_location`,`tabProject`.`custom_company_name`,`tabProject`.`custom_bid_number`,`tabProject`.`custom_bid_cost`,`tabProject`.`custom_emergency_cost`,`tabProject`.`custom_supervision_cost`,`tabProject`.`custom_total_amount`,`tabProject`.`custom_contract_period`,`tabProject`.`custom_start_date`,`tabProject`.`custom_end_date`"""
+	select_fields = """`tabProject`.`project_name`,`tabProject`.`custom_sector`,`tabProject`.`custom_ministry`,`tabProject`.`custom_location`,`tabProject`.`custom_company_name`,`tabProject`.`custom_bid_number`,`tabProject`.`custom_bid_cost`,`tabProject`.`custom_emergency_cost`,`tabProject`.`custom_supervision_cost`,`tabProject`.`custom_total_amount`,`tabProject`.`custom_contract_period`,`tabProject`.`custom_start_date`,`tabProject`.`custom_end_date`"""
 	#select_fields = """owner,audit_date"""
 
 	# if filters.get("show_remarks"):
@@ -156,7 +156,7 @@ def get_columns(filters):
 		
 		{"fieldname":"custom_sector","department":"Planning","lable_ar":"القطاع","lable":"Sector","color":"#09ce06","width":"0","type":"Data"},
 		{"fieldname":"custom_ministry","department":"Planning","lable_ar":"الوزارة","lable":"Ministry","color":"#09ce06","width":"0","type":"Data"},
-		{"fieldname":"custom_location","department":"Government Contracts","lable_ar":"الموقع","lable":"Location","color":"#00a7ff","width":"0","type":"Data"},
+		#{"fieldname":"custom_location","department":"Government Contracts","lable_ar":"الموقع","lable":"Location","color":"#00a7ff","width":"0","type":"Data"},
 		{"fieldname":"custom_company_name","department":"Government Contracts","lable_ar":"اسم الشركة","lable":"Company Name","color":"#00a7ff","width":"0","type":"Data"},
 		{"fieldname":"custom_bid_number","department":"Government Contracts","lable_ar":"رقم المناقصة","lable":"Bid Number","color":"#00a7ff","width":"0","type":"Data"},
 		{"fieldname":"custom_bid_cost","department":"Government Contracts","lable_ar":"كلفة الاحالة","lable":"Bid cost","color":"#00a7ff","width":"0","type":"Data"},

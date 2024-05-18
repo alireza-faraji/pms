@@ -173,7 +173,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-04-24 11:07:31.096572",
+ "modified": "2024-05-17 21:33:03.873332",
  "modified_by": "Administrator",
  "module": "PMS Project",
  "name": "PMS Main Project",
@@ -193,7 +193,9 @@
    "write": 1
   }
  ],
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "project_name"
 }
